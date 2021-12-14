@@ -5,6 +5,6 @@
 ------------------ Code First Girls NanoDegree Data Stream Group Project ------------------
 
 
+![topic](Baby_Names_Movie.jpeg)
 
-
-*Team: Sue Scott, Flavia Fonseca, Katie Papworth, Georgia Grant, Laura Fernandes*
+*Group members: Sue Scott, Flavia Fonseca, Katie Papworth, Georgia Grant, Laura Fernandes*
