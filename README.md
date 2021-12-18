@@ -2,25 +2,30 @@
                               This work is part of the CodeFirstGirls NanoDegree Data Stream 
 
 
------------------- ------------------ Code First Girls NanoDegree Data Stream Group Project ------------------ ------------------ 
+---------------- ------------------ Code First Girls NanoDegree Data Stream Group Project ------------------ ----------------
+
+                    *Group members: Sue Scott, Flavia Fonseca, Katie Papworth, Georgia Grant, Laura Fernandes* 
 
 
 ![](https://github.com/Fernandes2692/CFG_DataStream_GroupProject/blob/main/Images/BabyNames_Movie.jpeg)
 
 
- *Group members: Sue Scott, Flavia Fonseca, Katie Papworth, Georgia Grant, Laura Fernandes* 
+  ---
  
+ This repository contains the script needed to perform the data analysis “investigation into whether babies in the UK are influenced by movie releases” 
+ 
+ <br/>
+ 
+  ├── README.md
 
-├── README.md <br/>
-├── Jupyter Notebooks :card_index_dividers: 
-
-    └── 1. Data_Cleaning_and_Exploration_ONS_data.ipynb 
-    └── 2. Movie_API_Genre_Family.ipynb 
-    └── 3. analysis_Movies&BabyNames_Subplots.ipynb
-    └── 4. Graphs_for_Baby_names_and_our_names.ipynb
-    └── 5. Key_statistics_and_SQLconnection.ipynb
-    └── 6. Exploratory_Analysis.ipynb 
-    └── 7. Hero_Villains_Hypothesis_Testing.ipynb 
+    ├── Jupyter Notebooks :card_index_dividers:
+      └── 1. Data_Cleaning_and_Exploration_ONS_data.ipynb 
+      └── 2. Movie_API_Genre_Family.ipynb 
+      └── 3. analysis_Movies&BabyNames_Subplots.ipynb
+      └── 4. Graphs_for_Baby_names_and_our_names.ipynb
+      └── 5. Key_statistics_and_SQLconnection.ipynb
+      └── 6. Exploratory_Analysis.ipynb 
+      └── 7. Hero_Villains_Hypothesis_Testing.ipynb 
 
     ├── CSV and excel files
         │ └── Movie API
