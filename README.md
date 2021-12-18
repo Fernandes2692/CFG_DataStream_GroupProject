@@ -7,7 +7,7 @@
 
 ![](https://github.com/Fernandes2692/CFG_DataStream_GroupProject/blob/main/Images/BabyNames_Movie.jpeg)
 
-*Group members: Sue Scott, Flavia Fonseca, Katie Papworth, Georgia Grant, Laura Fernandes*
+ :woman-pouting::skin-tone-2: :woman-pouting::skin-tone-3: :woman-pouting::skin-tone-4: :woman-pouting::skin-tone-5: *Group members: Sue Scott, Flavia Fonseca, Katie Papworth, Georgia Grant, Laura Fernandes* :woman-pouting::skin-tone-2: :woman-pouting::skin-tone-3: :woman-pouting::skin-tone-4: :woman-pouting::skin-tone-5:
 
 ├── README.md <br/>
 ├── Jupyter Notebooks :card_index_dividers: 
