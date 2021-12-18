@@ -16,9 +16,12 @@
  
  <br/>
  
-  ├── README.md
+README.md :books: 
+  
+ 
+:bar_chart:
 
-    ├── Jupyter Notebooks :card_index_dividers:
+    ├── Jupyter Notebooks 
       └── 1. Data_Cleaning_and_Exploration_ONS_data.ipynb 
       └── 2. Movie_API_Genre_Family.ipynb 
       └── 3. analysis_Movies&BabyNames_Subplots.ipynb
@@ -26,6 +29,8 @@
       └── 5. Key_statistics_and_SQLconnection.ipynb
       └── 6. Exploratory_Analysis.ipynb 
       └── 7. Hero_Villains_Hypothesis_Testing.ipynb 
+      
+:notebook_with_decorative_cover:
 
     ├── CSV and excel files
         │ └── Movie API
@@ -42,7 +47,7 @@
              │
              └── statistics 
                     │
-                    └── Key Statistics Heroes Villains.xlsx <br/>
+                    └── Key Statistics Heroes Villains.xlsx 
                    
 :file_folder:
     
@@ -50,9 +55,9 @@
     │   └── SQL databse for characters names.sql
     └── Images
         └── Images for upload to github
-        ├      ├── godmothered (1).png
-        ├      ├── onward.jpeg
-        ├      ├── thewilloughbys.png
+        │      ├── godmothered (1).png
+        │      ├── onward.jpeg
+        │      ├── thewilloughbys.png
         └── Images used in report - not required for submission
                     ├── 15_subplots_movie_names.png
                     ├── 2021 Baby NAme Predications.png
