@@ -10,38 +10,34 @@
 *Group members: Sue Scott, Flavia Fonseca, Katie Papworth, Georgia Grant, Laura Fernandes*
 
 ├── README.md <br/>
-|
-├──├── Jupyter Notebooks <br/>
-│  │
-│  └─── ├──1. Data_Cleaning_and_Exploration_ONS_data.ipynb <br/>
-│       ├── 2. Movie_API_Genre_Family.ipynb <br/>
-│       ├── 3. analysis_Movies&BabyNames_Subplots.ipynb <br/>
-│       ├── 4. Graphs_for_Baby_names_and_our_names.ipynb <br/>
-│       ├──5. Key_statistics_and_SQLconnection.ipynb <br/>
-│       ├── 6. Exploratory_Analysis.ipynb <br/>
-│       └── 7. Hero_Villains_Hypothesis_Testing.ipynb <br/>
-│
-│   
-│   
-└──
-    ├── CSV and excel files <br/>
-        │ └── Movie API <br/>
-        │  ├── family_movies_2009_top3.csv <br/>
-        │  ├── family_movies_2011_top3.csv <br/>
-        │  ├── family_movies_2013_top3.csv <br/>
-        │  ├── family_movies_2015_top3.csv <br/>
-        │  │── family_movies_2017_top3.csv <br/>
-        │  └── family_movies_data2000to2020.csv <br/>
+├── Jupyter Notebooks :card_index_dividers: 
+
+    └── 1. Data_Cleaning_and_Exploration_ONS_data.ipynb 
+    └── 2. Movie_API_Genre_Family.ipynb 
+    └── 3. analysis_Movies&BabyNames_Subplots.ipynb
+    └── 4. Graphs_for_Baby_names_and_our_names.ipynb
+    └── 5. Key_statistics_and_SQLconnection.ipynb
+    └── 6. Exploratory_Analysis.ipynb 
+    └── 7. Hero_Villains_Hypothesis_Testing.ipynb 
+
+    ├── CSV and excel files
+        │ └── Movie API
+        │  ├── family_movies_2009_top3.csv 
+        │  ├── family_movies_2011_top3.csv 
+        │  ├── family_movies_2013_top3.csv 
+        │  ├── family_movies_2015_top3.csv 
+        │  │── family_movies_2017_top3.csv
+        │  └── family_movies_data2000to2020.csv
         │  
         └── ONS data <br/>
-             │   └───├── Clean data files <br/>
-             │       ├── Raw data <br/>
+             │   └───├── Clean data files 
+             │       ├── Raw data 
              │
-             └── statistics <br/>
+             └── statistics 
                     │
                     └── Key Statistics Heroes Villains.xlsx <br/>
                    
-  
+:file_folder:
     
     ├── SQL database code
     │   └── SQL databse for characters names.sql
@@ -69,3 +65,6 @@
                     ├── SWOT Analysis.png
                     ├── Top5RankingBoysNames.png
                     └── Top5RankingGirlsNames.png.png
+
+
+
