@@ -2,7 +2,7 @@
                               This work is part of the CodeFirstGirls NanoDegree Data Stream 
 
 
----------------- ------------------ Code First Girls NanoDegree Data Stream Group Project ------------------ ----------------
+---------------- ---------------- Code First Girls NanoDegree Data Stream Group Project ---------------- ----------------
 
                     *Group members: Sue Scott, Flavia Fonseca, Katie Papworth, Georgia Grant, Laura Fernandes* 
 
@@ -12,7 +12,7 @@
 
   ---
  
- This repository contains the script needed to perform the data analysis “investigation into whether babies in the UK are influenced by movie releases” 
+ ### This repository contains the script needed to perform the data analysis “investigation into whether babies in the UK are influenced by movie releases” 
  
  <br/>
  
@@ -53,7 +53,10 @@ README.md :books:
     
     ├── SQL database code
     │   └── SQL databse for characters names.sql
-    └── Images
+     
+:framed_picture:
+
+    ├── Images
         └── Images for upload to github
         │      ├── godmothered (1).png
         │      ├── onward.jpeg
