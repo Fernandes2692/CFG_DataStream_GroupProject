@@ -1,13 +1,15 @@
-# CFG_DataStream_GroupProject
-               This work is part of the CodeFirstGirls NanoDegree Data Stream 
+## CFG_DataStream_GroupProject
+                              This work is part of the CodeFirstGirls NanoDegree Data Stream 
 
 
------------------- Code First Girls NanoDegree Data Stream Group Project ------------------
+------------------ ------------------ Code First Girls NanoDegree Data Stream Group Project ------------------ ------------------ 
 
 
 ![](https://github.com/Fernandes2692/CFG_DataStream_GroupProject/blob/main/Images/BabyNames_Movie.jpeg)
 
- :woman-pouting::skin-tone-2: :woman-pouting::skin-tone-3: :woman-pouting::skin-tone-4: :woman-pouting::skin-tone-5: *Group members: Sue Scott, Flavia Fonseca, Katie Papworth, Georgia Grant, Laura Fernandes* :woman-pouting::skin-tone-2: :woman-pouting::skin-tone-3: :woman-pouting::skin-tone-4: :woman-pouting::skin-tone-5:
+
+ *Group members: Sue Scott, Flavia Fonseca, Katie Papworth, Georgia Grant, Laura Fernandes* 
+ 
 
 ├── README.md <br/>
 ├── Jupyter Notebooks :card_index_dividers: 
