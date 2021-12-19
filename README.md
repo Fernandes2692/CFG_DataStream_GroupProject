@@ -76,23 +76,15 @@ README.md :books:
         │
         └── Images used in report - not required for submission
                     ├── 15_subplots_movie_names.png
-                    ├── 2021 Baby NAme Predications.png
+                    ├── 2021 Baby Name Predications.png
                     ├── CodeFirstGirlsLogo.png
                     ├── Hero Vs Villains (1)(1).png
                     ├── Influential Movies (1).png
-                    ├── LaurKatiGeorgia_Names.png
-                    ├── Libraries and Tools Used (3).png
+                    ├── Libraries_tools_tasks.png
                     ├── Movie Data Diagram.png
                     ├── movie_ranks.png
-                    ├── OurGroupNames.png
-                    ├── OurInstructorsNames.png
-                    ├── Project Task Distribution.png
-                    ├── SinglePlot_ArthurRank.png
-                    ├── SinglePlot_Frozencharacter.png
-                    ├── SueFlav_Names.png
-                    ├── SWOT Analysis.png
-                    ├── Top5RankingBoysNames.png
-                    └── Top5RankingGirlsNames.png
+                    └── SWOT Analysis.png
+                    
 
 
 
