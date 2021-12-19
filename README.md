@@ -72,7 +72,7 @@ README.md :books:
         └── Images for upload to github
         │      ├── godmothered (1).png
         │      ├── onward.jpeg
-        │      └──  thewilloughbys.png
+        │      └── thewilloughbys.png
         │
         └── Images used in report - not required for submission
                     ├── 15_subplots_movie_names.png
