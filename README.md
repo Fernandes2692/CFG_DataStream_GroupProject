@@ -2,17 +2,18 @@
                               This work is part of the CodeFirstGirls NanoDegree Data Stream 
 
 
----------------- ---------------- Code First Girls NanoDegree Data Stream Group Project ---------------- ----------------
+-------------------- ---------   Code First Girls NanoDegree Data Stream Group Project  --------- --------------------
 
                     *Group members: Sue Scott, Flavia Fonseca, Katie Papworth, Georgia Grant, Laura Fernandes* 
 
 
-![](https://github.com/Fernandes2692/CFG_DataStream_GroupProject/blob/main/Images/BabyNames_Movie.jpeg)
+![](https://github.com/Fernandes2692/CFG_DataStream_GroupProject/blob/main/Images/BabyNames_Movie1.jpeg)
 
 
   ---
  
- ### This repository contains the script needed to perform the data analysis “investigation into whether babies in the UK are influenced by movie releases” 
+#### This repository contains the script needed to perform the data analysis: 
+                      “INVESTIGATION INTO WHETHER BABY NAMES IN THE UK ARE INFLUENCED BY MOVIE RELEASES” 
  
  <br/>
  
@@ -20,7 +21,7 @@ README.md :books:
 
 :page_facing_up:
   
-    ├── Project Report
+    ├── Project Report - NanoDegree Final Project Sue,Flavia,Georgia,Katie,Laura.pdf
        └── 0. Appendix
        
 :bar_chart:
@@ -47,7 +48,14 @@ README.md :books:
         │  
         └── ONS data 
              │   └───├── Clean data files 
-             │       ├── Raw data 
+             │       │   ├──boys_count_clean.csv
+             │       │   ├──boys_rank_clean.csv
+             │       │   ├──girls_count_clean.csv
+             │       │   └──girls_rank_clean.csv
+             │       │
+             │       │        
+             │       ├── Raw data
+             │           └──babyanmes1996to2020.xls
              │
              └── statistics 
                     │
@@ -64,7 +72,8 @@ README.md :books:
         └── Images for upload to github
         │      ├── godmothered (1).png
         │      ├── onward.jpeg
-        │      ├── thewilloughbys.png
+        │      └──  thewilloughbys.png
+        │
         └── Images used in report - not required for submission
                     ├── 15_subplots_movie_names.png
                     ├── 2021 Baby NAme Predications.png
@@ -83,7 +92,7 @@ README.md :books:
                     ├── SueFlav_Names.png
                     ├── SWOT Analysis.png
                     ├── Top5RankingBoysNames.png
-                    └── Top5RankingGirlsNames.png.png
+                    └── Top5RankingGirlsNames.png
 
 
 
