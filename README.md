@@ -70,7 +70,7 @@ README.md :books:
 
     ├── Images
         └── Images for upload to github
-        │      ├── godmothered (1).png
+        │      ├── godmothered.png
         │      ├── onward.jpeg
         │      └── thewilloughbys.png
         │
@@ -78,8 +78,8 @@ README.md :books:
                     ├── 15_subplots_movie_names.png
                     ├── 2021 Baby Name Predications.png
                     ├── CodeFirstGirlsLogo.png
-                    ├── Hero Vs Villains (1)(1).png
-                    ├── Influential Movies (1).png
+                    ├── Hero Vs Villains.png
+                    ├── Influential Movies.png
                     ├── Libraries_tools_tasks.png
                     ├── Movie Data Diagram.png
                     ├── movie_ranks.png
@@ -87,4 +87,19 @@ README.md :books:
                     
 
 
+To get started, clone the git repository and pip install the following packages:
+
+-  Pandas
+-  NumPy
+-  SciPy
+-  SkiKit-Learn
+-  Matplotlib 
+-  Seaborn
+-  Openpyxl
+
+
+Run through the ipynb notebooks 1-7 following the report and using the relevant files
+
+
+Enjoy!:nerd_face:
 
