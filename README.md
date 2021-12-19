@@ -17,8 +17,12 @@
  <br/>
  
 README.md :books: 
+
+:page_facing_up:
   
- 
+    ├── Project Report
+       └── 0. Appendix
+       
 :bar_chart:
 
     ├── Jupyter Notebooks 
