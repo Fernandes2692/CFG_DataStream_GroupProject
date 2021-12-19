@@ -64,26 +64,23 @@ README.md :books:
 :file_folder:
     
     ├── SQL database code
-    │   └── SQL databse for characters names.sql
+        └── SQL databse for characters names.sql
      
 :framed_picture:
 
     ├── Images
-        └── Images for upload to github
-        │      ├── godmothered.png
-        │      ├── onward.jpeg
-        │      └── thewilloughbys.png
-        │
-        └── Images used in report - not required for submission
-                    ├── 15_subplots_movie_names.png
-                    ├── 2021 Baby Name Predications.png
-                    ├── CodeFirstGirlsLogo.png
-                    ├── Hero Vs Villains.png
-                    ├── Influential Movies.png
-                    ├── Libraries_tools_tasks.png
-                    ├── Movie Data Diagram.png
-                    ├── movie_ranks.png
-                    └── SWOT Analysis.png
+        ├── godmothered.png
+        ├── onward.jpeg
+        ├── thewilloughbys.png
+        ├── 15_subplots_movie_names.png
+        ├── 2021 Baby Name Predications.png
+        ├── CodeFirstGirlsLogo.png
+        ├── Hero Vs Villains.png
+        ├── Influential Movies.png
+        ├── Libraries_tools_tasks.png
+        ├── Movie Data Diagram.png
+        ├── movie_ranks.png
+        └── SWOT Analysis.png
                     
 
 
